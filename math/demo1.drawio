@@ -1,9 +1,140 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="第 1 页" id="-RbnS11Ot55ukwD2571U">
-    <mxGraphModel>
+    <mxGraphModel dx="510" dy="308" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-1" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-48;fillColor=light-dark(#FFCC99,#14BBE6);strokeColor=#36393d;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="187" y="155.6" width="196.06" height="86.4" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-4" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="313" y="159" width="11" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-5" value="" style="shape=sumEllipse;perimeter=ellipsePerimeter;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="244" y="234" width="11" height="11" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-8" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#FAFF80);" edge="1" parent="1" source="LIFgEdm-DMdi3T8x3grL-5" target="LIFgEdm-DMdi3T8x3grL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="263" y="224" as="sourcePoint" />
+            <mxPoint x="417" y="207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-11" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;exitX=0.75;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#FAFF80);" edge="1" parent="1" source="LIFgEdm-DMdi3T8x3grL-1" target="LIFgEdm-DMdi3T8x3grL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="264" y="241" as="sourcePoint" />
+            <mxPoint x="335" y="162" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-14" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;strokeColor=light-dark(#000000,#FAFF80);" edge="1" parent="1" source="LIFgEdm-DMdi3T8x3grL-4" target="LIFgEdm-DMdi3T8x3grL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="308" y="131" as="sourcePoint" />
+            <mxPoint x="335" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-15" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FAFF80);" edge="1" parent="1" target="LIFgEdm-DMdi3T8x3grL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="165" as="sourcePoint" />
+            <mxPoint x="292" y="161" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-18" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FAFF80);" edge="1" parent="1" target="LIFgEdm-DMdi3T8x3grL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="165" as="sourcePoint" />
+            <mxPoint x="322" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-21" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=light-dark(#000000,#FAFF80);" edge="1" parent="1" target="LIFgEdm-DMdi3T8x3grL-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="351" y="155" as="sourcePoint" />
+            <mxPoint x="301" y="139" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-23" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.655;exitY=0.704;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=light-dark(#000000,#FAFF80);" edge="1" parent="1" source="LIFgEdm-DMdi3T8x3grL-1" target="LIFgEdm-DMdi3T8x3grL-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="209" as="sourcePoint" />
+            <mxPoint x="300" y="159" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-25" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#3C08FF);" vertex="1" parent="1">
+          <mxGeometry x="184" y="239" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-26" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#3C08FF);" vertex="1" parent="1">
+          <mxGeometry x="247" y="296" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#3C08FF);" vertex="1" parent="1">
+          <mxGeometry x="314.5" y="94" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-28" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#FFFFFF,#3C08FF);" vertex="1" parent="1">
+          <mxGeometry x="378" y="151" width="8" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-29" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=light-dark(#000000,#FAFF80);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="LIFgEdm-DMdi3T8x3grL-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="383" y="184" as="sourcePoint" />
+            <mxPoint x="291" y="164" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-30" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);endSize=1;startSize=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="319" y="180" as="sourcePoint" />
+            <mxPoint x="382" y="179" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-33" value="" style="endArrow=none;dashed=1;html=1;strokeWidth=1;rounded=0;strokeColor=light-dark(#000000,#FAFF80);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="383.06" y="154.89" as="sourcePoint" />
+            <mxPoint x="401" y="155" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-34" value="" style="endArrow=none;dashed=1;html=1;rounded=0;strokeColor=light-dark(#000000,#FAFF80);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="382" y="165" as="sourcePoint" />
+            <mxPoint x="399" y="165" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-35" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeColor=light-dark(#000000,#000000);endSize=1;startSize=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="393" y="166" as="sourcePoint" />
+            <mxPoint x="393" y="156" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-38" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.4232747917136791;endAngle=0.5015914963824541;rotation=-95;fillColor=light-dark(#FFFFFF,#000000);strokeColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="290" y="146" width="40" height="41.45" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-40" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;$$ \alpha $$&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#000000,#000000);" vertex="1" parent="1">
+          <mxGeometry x="320" y="147.5" width="31" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-41" value="&lt;span style=&quot;color: rgb(175, 177, 196); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.28px; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(43, 43, 49);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;$$d_1 \sin \alpha + d_2 \sin\left(\alpha - \frac{\pi}{2}\right)$$&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="418" y="146" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-42" value="" style="shape=stencil(rVjZbhsxDPwavxKSqIvPafofAeI0RtM4SNLr78utobXJ3R2nQN+czYwOcnhpxzdvj3cv+10Kb++vx6/7n4f798cdf9qldHh+3L8e3vXXjm93fPNwfN1/eT1+f74//f1yNyGnX9+OP6YVfp14kbhOpBR+nz50yunvh88n+NPh+QLOFIuBR10A4DN1u3zUL3kbX6mxxQsVgO8kYvCpwPPrcWszBE6YkKnZHXKgFAGhU3KETgXskBKFaAilUaiAULxRa6ECjpSEmiU0HmZY9zJTsW7ukYIAQqVuzdr1DmgHodwNQSIVsENWnVkrSR7SXSfoHYIlVEoFEArF7AkMzKp+XR5JgKdLpJQsIZEEQNAj2R262g2EQ1FPW7P2TKWDeNNwtITWqQKztkDRaUn1y4BQiK00dM8GpNHn+JrjoZKAO0xXtEkjCwXg6a4hau+g6krgDqpNtjtwhiEqTM0GkGYqFA+iacsReBxynVB9AE2ZEu2gAekImmyBlpTgzBrTiJAtQrWZr400soV3d2aY6xWfrJJw9Ez46PARpJgJ7yxEGeOzlVEYiXkL37LDM/JYHzn3jIca6l4Sikf26dSLw0d0fqHo14f+0lzlBASLiMwCPuMb0o+MinH2b0b2WdQcvnZflyYYn0ebEWvPPAy2hXfnz5Sxv1JweMb67NmfB+vTBbzeF5QzxXPy9kRZtPnyl4ZANvH2/PHqecThYZLWfOXjEbVRipfm8BHrgX18XYlH1/yGkbK39Bl8PEI9iO/1NV/9R3wM8/3myj0svLWB60tjGIV2MwO58aPAJlBN6lys7TlqDZYxo5cWXIerK9wZqzSPojUThCpyc/JlhgvcoS/8pr0watF68Ym3hDFXrRPiKKQzQaBUW/VDUW24a4zDTXMvkWHnqyNQW4wsaE6rgaqNtt7gKKvNuNj0dfbMVrsv1g8ym2FroOjWSlOJBkfKKj43gQh0nArByfsiaLfmLqfvqQyBKqvjsasKems0/3IfWXcm8ChE64SyGDb7yMzrhOR36AkOatqs+0527s/XCdmrT/WNhs0plbqQ63Aqim3U1osYhe8QvOgu4pj1NtL3eAi5HHJQUI8sNCeyBueD4tefHp/A+jwm14uBBblZ51C7fsSvHMGPE2qBBkIh+PeBs8U28C6FKT7C9V31FDifrcDRNLE4jYxnp49ddg6Jj9lSZxG4evarIy1rqk4OjoQZRtK8gANDRq8bvHr0XTg++z8+sF6F64/zW+7D4enp9BR8+X//9qufTu/GfPsH);lineShape=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="385.1376372607432" y="201.847824988713" width="70.63504420586159" height="38.047771884514624" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-43" value="" style="shape=stencil(lVfbctpADP0av2p2tVc9p+l/ZCakMKWQIaSXv69c1w6S4TB5M+bIq8vRkXZID2/bp9fNwOHtfDp+3/zaPZ+3Q/oyMO8O281pd9anIT0O6eHleNp8Ox3fD8/T79enETk+/Tj+HL/we7IToZxHKw5/pjeVcv334uuE3+8Ol/hGIRh8DCQCDBKlag0qVXBCb9SaMeBMqQODQFyMQUok+bZBi8Q2hpyJQQxVDaIxKIUiiKFEit1mtcATcqRmXWqJGohBQ4xsDHqc03DVgAs165Im+n8arhpEIbEnSKQSgUGhamOQTA0ZMFWxBpUEkY+KO6BTb6DQxJZ6yvaCqkDJczvMdL9qEKhGH3FlhHdMHbsDFE1Pz74EDQSgeOdPoAj9j9af3imDhAbKDq9yAAoW5vIs+EoB5CdSsoToBfoTSdIKD7qGV/4XSDim3r3/AvzRphSfT1TfpfoLXu58P61aEmmp+mPzo3xjmB+nEcrnAvHeH80/rG8Tj+9IIVb9ohoD/AnUivdfYH+lVT8if7S/nP+agQTxTrBUMWB/Bcc3uaM/yfG/zRJ5Kz9uaNS5grfyb/VE+wUJaPT5V3wCeCbuHt9APnn1/Qr9+Sxe2Z58/hF/ml8kxvrCAcbN49H3dUJy9gaowDqD14re0QkyC+xFCSoqQVnVTFUbbSpMxRo0TArdhVwMtcEYiubEzvmiUYE2rmFWtWUBFLg8NR18tvFTh43TxE8a5YoAAyWmGzWxz2S5TqWV9uoiDjd3lVoX9FyY6/juxTHA2ar4Ig4fAZHG3a06PNI63d3cMFvU8hY+dYdHs1jxbn3V7QX744ZZhKST1T7NOD8y36s+8ALwF7vqQtL5JnXzgE8RQqjbAhQ4/MaEFodHy82nr6J38frwce992e3307X58n9/T9ZX0x07Pf4F);lineShape=1;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="364.3636803980669" y="202.1661372178463" width="51.868107192810655" height="16.696875331232512" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-54" value="&lt;span style=&quot;color: rgb(175, 177, 196); font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, &amp;quot;Segoe UI&amp;quot;, Arial, Roboto, &amp;quot;PingFang SC&amp;quot;, miui, &amp;quot;Hiragino Sans GB&amp;quot;, &amp;quot;Microsoft Yahei&amp;quot;, sans-serif; letter-spacing: 0.28px; text-align: start; white-space-collapse: preserve-breaks; background-color: rgb(43, 43, 49);&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;$$d_1 \cos \alpha + d_2 \cos\left(\alpha - \frac{\pi}{2}\right)$$&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="326" y="178" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-55" value="&lt;font style=&quot;font-size: 8px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;$$d_z$$&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="276" y="125.6" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-56" value="&lt;span style=&quot;font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;$$d_1$$&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="326.0043005371094" y="114.99571472167969" width="59" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-59" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 8px; color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;$$ \mathrm{m_i}(x_i, y_i) $$&lt;/font&gt;&lt;/span&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="255.03" y="157.45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-60" value="&lt;span style=&quot;font-family: Helvetica; font-size: 8px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0));&quot;&gt;$$ \mathrm{m_{i+1}}(x_{i+1}, y_{i+1}) $$&lt;/font&gt;&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="213.00430053710943" y="233.99999694824217" width="128" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-64" value="" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="LIFgEdm-DMdi3T8x3grL-60">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="316.1379310344828" y="293" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LIFgEdm-DMdi3T8x3grL-69" value="&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 8px;&quot;&gt;点 \(A_i \)的坐标由以下公式给出：&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;color: light-dark(rgb(0, 0, 0), rgb(0, 0, 0)); font-size: 8px;&quot;&gt;\( \begin{cases} x_{A_i} = x_i + d_1 \cos \alpha + d_2 \cos \left( \alpha - \frac{\pi}{2} \right) \\ y_{A_i} = y_i + d_1 \sin \alpha + d_2 \sin \left( \alpha - \frac{\pi}{2} \right) \end{cases} \)&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="364.36" y="239.86" width="60" height="30.14" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
